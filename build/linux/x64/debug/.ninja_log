@@ -1,0 +1,106 @@
+# ninja log v5
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/libflutter_linux_gtk.so	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_engine.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_value.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_view.h	aa4818c7d9ff4031
+1	10273	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	aa4818c7d9ff4031
+1	10273	0	flutter/_phony_	aa4818c7d9ff4031
+10273	10568	1682462763141791541	CMakeFiles/notes.dir/main.cc.o	87fa519438797a21
+10274	10600	1682462763173791425	CMakeFiles/notes.dir/flutter/generated_plugin_registrant.cc.o	7d229fed7ebfc157
+10273	10624	1682462763197791340	CMakeFiles/notes.dir/my_application.cc.o	52861f868f8afece
+10624	10731	1682462763305790952	intermediates_do_not_run/notes	52e5a234c79711eb
+10731	10804	0	CMakeFiles/install.util	29807d8d253d823d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/libflutter_linux_gtk.so	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_engine.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_value.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_view.h	367ef4c690a62e1d
+1	11431	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	367ef4c690a62e1d
+1	11431	0	flutter/_phony_	367ef4c690a62e1d
+11431	11787	1682464341723881541	CMakeFiles/notes.dir/flutter/generated_plugin_registrant.cc.o	7d229fed7ebfc157
+11431	11812	1682464341743881534	CMakeFiles/notes.dir/my_application.cc.o	52861f868f8afece
+11812	11922	1682464341859881499	intermediates_do_not_run/notes	5a10b18cfb9d1397
+11922	12019	0	CMakeFiles/install.util	29807d8d253d823d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/libflutter_linux_gtk.so	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_engine.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_value.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_view.h	367ef4c690a62e1d
+1	5007	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	367ef4c690a62e1d
+1	5007	0	flutter/_phony_	367ef4c690a62e1d
+5008	5322	1682467831003192133	CMakeFiles/notes.dir/flutter/generated_plugin_registrant.cc.o	7d229fed7ebfc157
+5008	5349	1682467831027191825	CMakeFiles/notes.dir/my_application.cc.o	52861f868f8afece
+5349	5471	1682467831155190177	intermediates_do_not_run/notes	5a10b18cfb9d1397
+5471	5548	0	CMakeFiles/install.util	29807d8d253d823d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/libflutter_linux_gtk.so	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_engine.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_value.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/fl_view.h	367ef4c690a62e1d
+1	3583	0	/home/juanse/Documentos/DarthCouffer/CodeBrew Studios/flutter_notes_app/notes/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	367ef4c690a62e1d
+1	3583	0	flutter/_phony_	367ef4c690a62e1d
+3583	3909	1682467850386945048	CMakeFiles/notes.dir/flutter/generated_plugin_registrant.cc.o	7d229fed7ebfc157
+3583	3925	1682467850402944846	CMakeFiles/notes.dir/my_application.cc.o	52861f868f8afece
+3925	4038	1682467850518943383	intermediates_do_not_run/notes	5a10b18cfb9d1397
+4039	4128	0	CMakeFiles/install.util	29807d8d253d823d
