@@ -1,16 +1,47 @@
-# notes
+## Flutter Notas App
 
-A new Flutter project.
+### Descripción del Proyecto
 
-## Getting Started
+Este proyecto consiste en una aplicación móvil simple desarrollada con Flutter que permite a los usuarios visualizar y editar notas. La aplicación utiliza Firebase como backend para almacenar y sincronizar las notas en tiempo real.
 
-This project is a starting point for a Flutter application.
+### Tecnologías Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter:** Framework de desarrollo de aplicaciones móviles de código abierto.
+- **Firebase:** Plataforma de desarrollo móvil de Google que ofrece una base de datos en tiempo real y servicios de autenticación.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Funcionalidades Principales
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Vista de Notas:**
+   - Visualización de todas las notas existentes con sus títulos.
+
+2. **Editor de Notas:**
+   - Funcionalidad para crear y editar el contenido de las notas.
+
+### Estructura del Proyecto
+
+```
+flutter_notas_app/
+|-- lib/
+|   |-- main.dart
+|   |-- models/
+|       |-- note.dart
+|   |-- screens/
+|       |-- note_view.dart
+|       |-- note_editor.dart
+|-- pubspec.yaml
+```
+
+### Configuración de Firebase
+
+- Se requiere la configuración de Firebase en el archivo `pubspec.yaml`.
+- Se deben habilitar los servicios necesarios en la consola de Firebase.
+
+### Ejecución del Proyecto
+
+1. Asegúrate de tener Flutter y Dart instalados en tu máquina.
+2. Clona este repositorio.
+3. Configura tu proyecto en la consola de Firebase y actualiza las credenciales en el archivo `pubspec.yaml`.
+4. Ejecuta `flutter pub get` para obtener las dependencias del proyecto.
+5. Ejecuta `flutter run` para lanzar la aplicación en tu dispositivo o emulador.
+
+Este proyecto simple proporciona una aplicación de notas básica con vistas y editores que se integran con Firebase para el almacenamiento en la nube.
